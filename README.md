@@ -23,6 +23,7 @@ curated resources for learning/playing/understanding/watching/researching, basic
 -   [Chess.com](https://www.chess.com) - With over 11 million members, you can play both live chess at various time controls, or correspondence-style games with days per move. Rated games with different modes - Blitz, Rapid, 3-Check, King of the hill, etc. Support game format for 4 players.
 -   [Internet Chess Club (ICC)](https://www.chessclub.com/) - Can play online and download chess game for PC, for playing. Supports multiple play mode and against Computer.
 -   [ChessCube](http://www.chesscube.com) - Another free to play site, with chatting and multiplayer support. Another large site with over 1.4 million members, ChessCube stages hundreds of tournaments each day where players can win cubits, the site's online currency, which can then be spent in the ChessCube shop. Provides Rating and statistic for moves.
+-   [Red Hot Pawn](https://www.redhotpawn.com/) - Play correspondence chess online against your friends and a global community of chess players. Has tournaments and ladders, as well as teams (called 'clans' on the site) and other play modes.
 
 ### Traps
 
