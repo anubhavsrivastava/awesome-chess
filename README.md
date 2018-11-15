@@ -20,6 +20,8 @@ curated resources for learning/playing/understanding/watching/researching, basic
 
 ### Game Sites
 
+-   [chess.com](https://www.chess.com) - Rated games with different modes - Blitz, Rapid, 3-Check, King of the hill, etc. Support game format for 4 players
+
 ### Traps
 
 ### Openings
