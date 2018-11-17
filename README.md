@@ -23,6 +23,8 @@
 
 <!-- tocstop -->
 
+---
+
 ### Game sites
 
 -   [Chess.com](https://www.chess.com) - With over 11 million members, you can play both live chess at various time controls, or correspondence-style games with days per move. Rated games with different modes - Blitz, Rapid, 3-Check, King of the hill, etc. Support game format for 4 players.
@@ -60,3 +62,4 @@
 
 -   [2700Chess.com](https://2700chess.com/) - This website is dedicated to monitoring the live ratings of the top chess players in the world. Includes games from all
 -   [TheWeekInChess](http://theweekinchess.com/) - Daily Chess News and Games. Weekly digest for download. Also watch live games.
+-   [Chesscademy](https://www.chesscademy.com/) - Learn to play chess via tutorials, puzzles and challenges.
