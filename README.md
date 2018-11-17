@@ -8,18 +8,19 @@
 
 <!-- toc -->
 
-- [Game sites](#game-sites)
-- [Traps/Gambits](#trapsgambits)
-- [Openings](#openings)
-- [Tools](#tools)
-  * [Board Validators](#board-validators)
-  * [Board Notations](#board-notations)
-    + [FEN](#fen)
-    + [Algebraic](#algebraic)
-    + [PNG](#png)
-    + [Other](#other)
-- [Multiplayer Chess Resources](#multiplayer-chess-resources)
-- [Community](#community)
+-   [Game sites](#game-sites)
+-   [Traps/Gambits](#trapsgambits)
+    -   [Articles/Posts/Collection](#articlespostscollection)
+-   [Openings](#openings)
+-   [Tools](#tools)
+    -   [Board Validators](#board-validators)
+    -   [Board Notations](#board-notations)
+        -   [FEN](#fen)
+        -   [Algebraic](#algebraic)
+        -   [PNG](#png)
+        -   [Other](#other)
+-   [Multiplayer Chess Resources](#multiplayer-chess-resources)
+-   [Community](#community)
 
 <!-- tocstop -->
 
@@ -40,6 +41,12 @@
 
 -   [Curated Trap List](chess-traps.md) - Curated List from multiple source dedicated to traps section (part of current awesome-chess repo)
 -   [ChessTraps.com](http://www.chesstraps.net/) - Also videos available on their official [YouTubeChannel](https://www.youtube.com/channel/UCFh6FCMsTdnfEA_N7rdIBnw/videos)
+
+#### Articles/Posts/Collection
+
+-   [ChessGame Opening Traps](http://www.chessgames.com/perl/chesscollection?cid=1036715) - Chess games collection of opening traps
+-   [Thechessworld article](https://thechessworld.com/articles/openings/openings-traps/) - Title - "10 Most Deadly Chess Opening"
+-   [chess.com article](https://www.chess.com/article/view/the-10-best-chess-traps) - Title - "The 10 Best Chess Traps"
 
 ### Openings
 
