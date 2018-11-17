@@ -27,6 +27,7 @@ curated resources for learning/playing/understanding/watching/researching, basic
 -   [FICS: Free Internet Chess Server](https://www.freechess.org/) - FICS is one of the oldest online chess servers. It was originally set up as a free alternative to ICC when ICC started charging players for membership. As there is no official interface, in order to play you need to download a compatible interface(software).
 -   [GameKnot](https://gameknot.com/) - GameKnot is one of the larger correspondence-only sites, with over a million members, and is free to play. There are other features such as a game databaase, tactics training, and annotated games.
 -   [Chessworld.net](https://www.chessworld.net) - Popular online correspondence chess site, founded by popular online chess vlogger Tryfon Gavriel, aka Kingscrusher. deal for multiple games at same time.
+-   [ItsYourTurn.com](http://www.itsyourturn.com/) - A much more basic option than the others, and better for casual players than those in search of serious competition. Also, large number of other games you can play in addition - from Xiangqi and Go to Backgammon and Battleships!
 
 ### Traps
 
