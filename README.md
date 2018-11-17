@@ -2,21 +2,26 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-curated resources for learning/playing/understanding/watching/researching, basically anything on CHESS
+> curated resources for learning/playing/understanding/watching/researching, basically anything on CHESS
 
-### Tools
+## Table of Contents
 
-#### Board Validators
+<!-- toc -->
 
-#### Board Notations
+-   [Game sites](#game-sites)
+-   [Traps](#traps)
+-   [Openings](#openings)
+-   [Tools](#tools)
+    -   [Board Validators](#board-validators)
+    -   [Board Notations](#board-notations)
+        -   [FEN](#fen)
+        -   [Algebraic](#algebraic)
+        -   [PNG](#png)
+        -   [Other](#other)
+-   [Multiplayer Chess Resources](#multiplayer-chess-resources)
+-   [Community](#community)
 
-##### FEN
-
-##### Algebraic
-
-##### PNG
-
-##### Other
+<!-- tocstop -->
 
 ### Game sites
 
@@ -35,9 +40,23 @@ curated resources for learning/playing/understanding/watching/researching, basic
 
 ### Openings
 
+### Tools
+
+#### Board Validators
+
+#### Board Notations
+
+##### FEN
+
+##### Algebraic
+
+##### PNG
+
+##### Other
+
 ### Multiplayer Chess Resources
 
 ### Community
 
 -   [2700Chess.com](https://2700chess.com/) - This website is dedicated to monitoring the live ratings of the top chess players in the world. Includes games from all
--   [WeekInChess](http://theweekinchess.com/) - Daily Chess News and Games. Weekly digest for download. Also watch live games.
+-   [TheWeekInChess](http://theweekinchess.com/) - Daily Chess News and Games. Weekly digest for download. Also watch live games.
