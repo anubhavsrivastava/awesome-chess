@@ -38,6 +38,7 @@
 
 ### Traps
 
+-   [CuratedList](chess-traps.md) - Curated List from multiple source dedicated to traps section (part of current awesome-chess repo)
 -   [ChessTraps.com](http://www.chesstraps.net/) - Also videos available on their official [YouTubeChannel](https://www.youtube.com/channel/UCFh6FCMsTdnfEA_N7rdIBnw/videos)
 
 ### Openings
