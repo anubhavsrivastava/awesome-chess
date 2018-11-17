@@ -40,3 +40,4 @@ curated resources for learning/playing/understanding/watching/researching, basic
 ### Community
 
 -   [2700Chess.com](https://2700chess.com/) - This website is dedicated to monitoring the live ratings of the top chess players in the world. Includes games from all
+-   [WeekInChess](http://theweekinchess.com/) - Daily Chess News and Games. Weekly digest for download. Also watch live games.
