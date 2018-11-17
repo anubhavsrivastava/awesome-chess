@@ -8,18 +8,18 @@
 
 <!-- toc -->
 
--   [Game sites](#game-sites)
--   [Traps](#traps)
--   [Openings](#openings)
--   [Tools](#tools)
-    -   [Board Validators](#board-validators)
-    -   [Board Notations](#board-notations)
-        -   [FEN](#fen)
-        -   [Algebraic](#algebraic)
-        -   [PNG](#png)
-        -   [Other](#other)
--   [Multiplayer Chess Resources](#multiplayer-chess-resources)
--   [Community](#community)
+- [Game sites](#game-sites)
+- [Traps/Gambits](#trapsgambits)
+- [Openings](#openings)
+- [Tools](#tools)
+  * [Board Validators](#board-validators)
+  * [Board Notations](#board-notations)
+    + [FEN](#fen)
+    + [Algebraic](#algebraic)
+    + [PNG](#png)
+    + [Other](#other)
+- [Multiplayer Chess Resources](#multiplayer-chess-resources)
+- [Community](#community)
 
 <!-- tocstop -->
 
@@ -36,9 +36,9 @@
 -   [Chessworld.net](https://www.chessworld.net) - Popular online correspondence chess site, founded by popular online chess vlogger Tryfon Gavriel, aka Kingscrusher. deal for multiple games at same time.
 -   [ItsYourTurn.com](http://www.itsyourturn.com/) - A much more basic option than the others, and better for casual players than those in search of serious competition. Also, large number of other games you can play in addition - from Xiangqi and Go to Backgammon and Battleships!
 
-### Traps
+### Traps/Gambits
 
--   [CuratedList](chess-traps.md) - Curated List from multiple source dedicated to traps section (part of current awesome-chess repo)
+-   [Curated Trap List](chess-traps.md) - Curated List from multiple source dedicated to traps section (part of current awesome-chess repo)
 -   [ChessTraps.com](http://www.chesstraps.net/) - Also videos available on their official [YouTubeChannel](https://www.youtube.com/channel/UCFh6FCMsTdnfEA_N7rdIBnw/videos)
 
 ### Openings
