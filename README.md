@@ -31,6 +31,8 @@ curated resources for learning/playing/understanding/watching/researching, basic
 
 ### Traps
 
+-   [ChessTraps.com](http://www.chesstraps.net/) - Also videos available on their official [YouTubeChannel](https://www.youtube.com/channel/UCFh6FCMsTdnfEA_N7rdIBnw/videos)
+
 ### Openings
 
 ### Multiplayer Chess Resources
