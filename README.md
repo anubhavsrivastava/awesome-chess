@@ -55,6 +55,8 @@
 
 ### Tools
 
+-   [NextChessMove](https://nextchessmove.com/) - Provides best possible next move for a position (With strongFish and other Engine), supports FEN and other notations.
+
 #### Standard Board Validators
 
 #### Standard Board Notations
