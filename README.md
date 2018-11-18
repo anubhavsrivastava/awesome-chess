@@ -51,7 +51,7 @@
 ### Openings
 
 -   [Chess.com Openings](https://www.chess.com/openings) - Chess.com collection of commons openings
--   [Common chess openings](Thttps://www.thesprucecrafts.com/most-common-chess-openings-611517) - The Most Common Chess Openings article
+-   [Common chess openings](https://www.thesprucecrafts.com/most-common-chess-openings-611517) - The Most Common Chess Openings article
 
 ### Tools
 
