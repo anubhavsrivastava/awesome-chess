@@ -50,6 +50,8 @@
 
 ### Openings
 
+-   [Chess.com Openings](https://www.chess.com/openings) - Chess.com collection of commons openings
+
 ### Tools
 
 #### Standard Board Validators
