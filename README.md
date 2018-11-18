@@ -46,7 +46,7 @@
 
 -   [ChessGame Opening Traps](http://www.chessgames.com/perl/chesscollection?cid=1036715) - Chess games collection of opening traps
 -   [Thechessworld article](https://thechessworld.com/articles/openings/openings-traps/) - Title - "10 Most Deadly Chess Opening"
--   [chess.com article](https://www.chess.com/article/view/the-10-best-chess-traps) - Title - "The 10 Best Chess Traps"
+-   [Chess.com article](https://www.chess.com/article/view/the-10-best-chess-traps) - Title - "The 10 Best Chess Traps"
 
 ### Openings
 
