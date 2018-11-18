@@ -71,6 +71,10 @@
 
 ### Multiplayer Chess Resources
 
+#### 4-Player Chess
+
+-   [Kongregate](https://www.kongregate.com/games/alpha1390/4-player-chess) - 4 Player Chess based on Unity WebGL
+
 ### Other Variations
 
 -   [Wiki Variant list](https://en.wikipedia.org/wiki/List_of_chess_variants) - List of known variation including board variations and piece variations.
