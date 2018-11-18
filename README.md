@@ -75,6 +75,10 @@
 
 -   [Kongregate](https://www.kongregate.com/games/alpha1390/4-player-chess) - 4 Player Chess based on Unity WebGL
 
+#### 3-Player Chess
+
+-   [ThreeChess](https://www.threechess.com) - Three Player Chess online worldwide based on AdobeFlash.
+
 ### Other Variations
 
 -   [Wiki Variant list](https://en.wikipedia.org/wiki/List_of_chess_variants) - List of known variation including board variations and piece variations.
