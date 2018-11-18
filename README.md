@@ -52,9 +52,9 @@
 
 ### Tools
 
-#### Board Validators
+#### Standard Board Validators
 
-#### Board Notations
+#### Standard Board Notations
 
 ##### FEN
 
@@ -65,6 +65,10 @@
 ##### Other
 
 ### Multiplayer Chess Resources
+
+### Other Variations
+
+-   [Wiki Variant list](https://en.wikipedia.org/wiki/List_of_chess_variants) - List of known variation including board variations and piece variations.
 
 ### Community
 
