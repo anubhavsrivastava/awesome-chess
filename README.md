@@ -71,6 +71,7 @@
 ##### [PGN](https://en.wikipedia.org/wiki/Portable_Game_Notation)
 
 -   [Chess Tampo's PGN Viewer](https://chesstempo.com/pgn-viewer.html) - Chess Tempo's PGN viewer is Javascript code which allows you to either view PGN format games on the Chess Tempo site, or embed the viewer into your own website
+-   [PGN Game Viewer](http://www.caissa.com/chess-tools/chess-game-viewer.php) - Import and export chess board in PGN notation
 
 ### Multiplayer Chess Resources
 
