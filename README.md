@@ -64,7 +64,7 @@
 
 ##### [FEN](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation)
 
-##### Algebraic
+##### [Algebraic](<https://en.wikipedia.org/wiki/Algebraic_notation_(chess)>)
 
 ##### [PGN](https://en.wikipedia.org/wiki/Portable_Game_Notation)
 
