@@ -57,9 +57,9 @@
 
 -   [NextChessMove](https://nextchessmove.com/) - Provides best possible next move for a position (With strongFish and other Engine), supports FEN and other notations.
 
-#### Standard Board Validators
-
 #### Standard Board Notations
+
+> Chess notations are various systems that have developed to record either the moves made in a game of chess or the position of pieces on a chessboard.
 
 ##### FEN
 
