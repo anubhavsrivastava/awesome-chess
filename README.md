@@ -36,6 +36,7 @@
 -   [GameKnot](https://gameknot.com/) - GameKnot is one of the larger correspondence-only sites, with over a million members, and is free to play. There are other features such as a game databaase, tactics training, and annotated games.
 -   [Chessworld.net](https://www.chessworld.net) - Popular online correspondence chess site, founded by popular online chess vlogger Tryfon Gavriel, aka Kingscrusher. deal for multiple games at same time.
 -   [ItsYourTurn.com](http://www.itsyourturn.com/) - A much more basic option than the others, and better for casual players than those in search of serious competition. Also, large number of other games you can play in addition - from Xiangqi and Go to Backgammon and Battleships!
+-   [lichess.org](https://lichess.org/) - Open source free Chess server with various modes
 
 ### Traps/Gambits
 
@@ -61,13 +62,11 @@
 
 > Chess notations are various systems that have developed to record either the moves made in a game of chess or the position of pieces on a chessboard.
 
-##### FEN
+##### [FEN](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation)
 
 ##### Algebraic
 
-##### PNG
-
-##### Other
+##### [PGN](https://en.wikipedia.org/wiki/Portable_Game_Notation)
 
 ### Multiplayer Chess Resources
 
