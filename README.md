@@ -66,7 +66,11 @@
 
 ##### [Algebraic](<https://en.wikipedia.org/wiki/Algebraic_notation_(chess)>)
 
+-   [wikiHow](https://www.wikihow.com/Read-Algebraic-Chess-Notation) - How to read algebraic notation
+
 ##### [PGN](https://en.wikipedia.org/wiki/Portable_Game_Notation)
+
+-   [Chess Tampo's PGN Viewer](https://chesstempo.com/pgn-viewer.html) - Chess Tempo's PGN viewer is Javascript code which allows you to either view PGN format games on the Chess Tempo site, or embed the viewer into your own website
 
 ### Multiplayer Chess Resources
 
